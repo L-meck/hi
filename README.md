@@ -3,13 +3,21 @@ near-blank-project
 
 This [React] app was initialized with [create-near-app]
 
-//SHORTS NOTES
-//============
-//yarn create near-app kukulana
+<!-- //SHORTS NOTES -->
+<!-- //============ -->
+<!-- //yarn create near-app kukulana -->
 
 
-//NAVIGATION ubuntu (cd ../..) , (ls) , (cd mnt) , (ls)
-// 
+<!-- //NAVIGATION ubuntu (cd ../..) , (ls) , (cd mnt) , (ls) -->
+<!-- //  -->
+<!-- // sudo apt remove cmdtest -->
+<!-- sudo apt remove yarn -->
+<!-- curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add - -->
+<!-- echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list -->
+<!-- sudo apt-get update -->
+<!-- sudo apt-get install yarn -y -->
+
+<!-- yarn install -->
 
 Quick Start
 ===========
